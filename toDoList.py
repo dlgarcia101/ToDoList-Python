@@ -2,7 +2,7 @@
 
 #todo list in python
 entryOptions= ['A','D','L']
-toDoList = ['Take out the trash']
+toDoList = ['take out the trash']
 
 #function to add and validate userInput into the List
 def taskUserFunction(taskType,userTaskInput):
